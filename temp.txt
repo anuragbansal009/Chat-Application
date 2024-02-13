@@ -1,0 +1,10 @@
+ (index) │ STREAM_USER_ID │                                                STREAM_USER_TOKEN
+                     │
+├─────────┼────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│    0    │    'vishal'    │ 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoidmlzaGFsIn0.jIvxRv-e6efNY40kIjKFyLUdf0mOisVzppbk4VtM4js'  │
+│    1    │    'lucas'     │  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoibHVjYXMifQ.IMWngnUiG_feWT0EckMaAKU2ojHN_kge9aA3ZSU4iQE'  │
+│    2    │   'tommaso'    │ 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoidG9tbWFzbyJ9.XA5gK9_fE2k_fzvI3vXSWHc7-Q5GpjI7WBe5XupZjYA' │
+│    3    │     'neil'     │   'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoibmVpbCJ9.T1btgNIwXeT52Vf9ZNDaAQ4v73AlYwgRkqrY6sIxIvo'   │
+│    4    │     'nick'     │   'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoibmljayJ9.eGXTCcSywAU4nC6aPkTMIk6InkOAxr6jIpA6CBls71s'   │
+│    5    │   'thierry'    │ 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoidGhpZXJyeSJ9.NjdWD2N-RBztDRBVAj5Lmp_T8g5_5J-jDIPGNdt97Jg' │
+│    6    │     'ben'      │   'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiYmVuIn0.CeyelubEzxhQ2u_Sr2lnrdiwF9iH-6bjY02b_xJGfvA'
